@@ -1,8 +1,34 @@
 ---
 layout: post
-title:"여러분은 지금 제 블로그를 구경중입니다."
+
+title:"프로그래밍 언어"
+
+date: 2019-11-24 22:03:36 +0530
+
+categories: C  Python  Java  Unity
 ---
 
-##만나서 반갑반갑 수고수고
+
+
+##C
+```javascript
 ** 여러분은 지금 구경중임 감사감사 수고수고 **
-'alt('만나서 방가!')'
+
+```
+
+##Python
+```javascript
+** 여러분은 지금 구경중임 감사감사 수고수고 **
+
+```
+##Java
+```javascript
+** 여러분은 지금 구경중임 감사감사 수고수고 **
+
+```
+
+##Unity
+```javascript
+** 여러분은 지금 구경중임 감사감사 수고수고 **
+
+```
