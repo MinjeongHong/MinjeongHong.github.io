@@ -20,8 +20,8 @@ plainwhite:
   # generate social links in footer
   social_links:
     github:  https://github.com/MinjeongHong
-    facebook: jekyll
-    instagram: rrr
+    facebook: https://www.facebook.com/profile.php?id=100007633413342
+    instagram: https://www.instagram.com/einstein2222/
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
