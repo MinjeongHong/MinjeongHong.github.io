@@ -24,6 +24,10 @@ categories: C  Unity  C++
 
 
 ##코딩의 이해와 활용(1-2)
+*****
+![image](https://postfiles.pstatic.net/MjAxOTExMjRfMjcz/MDAxNTc0NjA2OTYzNzYy.K-iJwH2phAb7DdtM2t2KxSa5txC2ULKybb11xswej_kg.UAagwmnCpoPVPfDC4z52DEXN92B04QMWVg0DPEi3w08g.JPEG.einstein2222/3개의_다른_정수.jpg?type=w966)
+*****
+
 ```javascript
 사용자로부터 3개의 정수를 입력받아 가장 큰 값과 작은 값을 출력하는
 프로그램을 제작했다.
@@ -46,6 +50,10 @@ categories: C  Unity  C++
 
 
 ##프로그래밍 실무(2-1)
+*****
+![image](https://postfiles.pstatic.net/MjAxOTExMjRfMTQx/MDAxNTc0NjA2OTU2ODE3.g5MVTfQEz3--4_V0z7ZHuK-3QW0H2GJP4voKqKUxyUMg.iBE0kws1cLwIB3PAvunaa00thbOjqa2lfmGAnbsolNgg.JPEG.einstein2222/입력_오류2.jpg?type=w966)
+*****
+
 ```javascript
 1. 전화번호부
 기본적인 전화번호부 기능만을 요구하는 프로그램을 제작했다.
