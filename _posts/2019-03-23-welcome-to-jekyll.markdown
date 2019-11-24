@@ -11,51 +11,32 @@ categories: C
 ---
 
 ##코딩의 이해와 활용(1-1)
-
-##프로그래밍 실무(2-1)
-1. 전화번호부
-2. 다양한 기능이 추가된 전화번호부
-
-
-
-##소프트웨어 공학(2-2)
-  1.전화번호부
-  2.비디오 대여
-
-
-
-
 ```javascript
+휴게소 짜장면 집 메뉴 주문받는 프로그램을 만듦.
 
-const Razorpay = require('razorpay');
+```
+##프로그래밍 실무(2-1)
+```javascript
+1. 전화번호부
+기본적인 전화번호부 기능만을 요구하는 프로그램을 제작
+2. 다양한 기능이 추가된 전화번호부
+기본적인 전화번호부에서 더욱더 세밀한 기능이 추가된 프로그램을 제작
 
-
-
-let rzp = Razorpay({
-
-	key_id: 'KEY_ID',
-
-	secret: 'name'
-
-});
-
-
-
-// capture request
-
-rzp.capture(payment_id, cost)
-
-	.then(function (data) {
-
-		return 2;
-
-	})
 
 ```
 
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+##소프트웨어 공학(2-2)
+  ```javascript
+1.전화번호부
+기본적인 전화번호부에 자신이 원하는 기능을 만들어 추가함
+2.비디오 대여
+비디오 대여 프로그램을 만들어 사용자가 입력했던 것들을 저장하여 다시 프로그램을 실행할 시 덮어쓰도록 함.
+
+```
+
+
 
 
 
