@@ -14,20 +14,15 @@ sass:
 plainwhite:
   name: 홍 민 정
   tagline: 강원대학교 소프트웨어 
-           미디어 융합전공 재학
+  tagline: 미디어 융합전공 재학
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
     github:  https://github.com/MinjeongHong
-    linkedIn: in/thelehhman
-    rss: rss
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
+    facebook: jekyll
+    instagram: rrr
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
