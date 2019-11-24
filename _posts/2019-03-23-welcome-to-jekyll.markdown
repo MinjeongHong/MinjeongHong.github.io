@@ -4,7 +4,11 @@ title:  "프로그래밍 능력"
 date:   2019-11-24 21:03:36 +0530
 categories: C
 ---
+코딩의 이해와 활용
+
 프로그래밍 실무 프로젝트
+
+소프트웨어 공학
 
 ```javascript
 const Razorpay = require('razorpay');
